@@ -23,7 +23,8 @@ Fine-tune `bert-base-uncased` on the **AG News** dataset to automatically classi
 
 ## 📁 Repository Structure
 
-```News-Classifier-Bert/
+```
+News-Classifier-Bert/
 │
 ├── News_classifier_bert.ipynb   ← Main notebook (training + evaluation)
 ├── app.py                             ← Streamlit deployment app
